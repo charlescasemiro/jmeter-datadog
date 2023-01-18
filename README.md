@@ -6,7 +6,7 @@ Para build da imagem executar o script abaixo:
 
 Para executar o teste com JMETER:
 
-./test.sh
+./test.sh <script.jmx>
 
 Caso queira executar em background rodar:
 
