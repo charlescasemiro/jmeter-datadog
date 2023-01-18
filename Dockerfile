@@ -30,7 +30,7 @@ ENV PATH $PATH:$JMETER_BIN
 
 # Entrypoint has same signature as "jmeter" command
 COPY entrypoint.sh /
-COPY mpsp-test-plan-500.jmx tests/trivial/
+COPY *.jmx tests/trivial/
 COPY /plugins/* /plugins/
 
 WORKDIR	${JMETER_HOME}

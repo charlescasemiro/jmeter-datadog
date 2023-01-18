@@ -120,3 +120,9 @@ Tidying up ...    @ December 9, 2022 3:20:00 AM BRT (1670566800769)
 Error generating the report: java.lang.IllegalArgumentException: /Users/charlescasemiro/git/jmeter/docker-jmeter/tests/trivial/test-plan.jtl does not exist or is not readable
 ... end of run
 END Running Jmeter on Fri Dec  9 03:20:01 -03 2022
+==== jmeter.log ====
+cat: tests/trivial/jmeter.log: No such file or directory
+==== Raw Test Report ====
+cat: tests/trivial/test-plan.jtl: No such file or directory
+==== HTML Test Report ====
+See HTML test report in tests/trivial/report/index.html
