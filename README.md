@@ -1,5 +1,3 @@
-[![Jmeter Datadog Backend Listener](https://tse2.mm.bing.net/th?id=OIP.hIfLVwDBXL7KbjJ-g2ozggHaFU\&pid=Api)](https://awesomeopensource.com/project/DataDog/jmeter-datadog-backend-listener)
-
 # jmeter-datadog
 
 A containerized environment for executing Apache JMeter performance tests with integrated Datadog monitoring. This setup facilitates the collection and visualization of test metrics within the Datadog platform.
